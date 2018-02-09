@@ -1,3 +1,4 @@
+#main file for shop
 import product
 import DBManager
 class Shop(object):
